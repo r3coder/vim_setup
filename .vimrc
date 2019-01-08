@@ -8,7 +8,6 @@ Plugin 'scrooloose/nerdcommenter'
 Plugin 'bling/vim-airline'
 Plugin 'Lokaltog/vim-easymotion'
 Plugin 'vcscommand.vim'
-Plugin 'Valloric/YouCompleteMe'
 Plugin 'chrisbra/csv.vim'
 "text objects
 Plugin 'textobj-user'
